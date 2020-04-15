@@ -17,16 +17,16 @@ kerasが提供しているサンプルモデルの cifar10_cnn.pyを参考に構
 
 
 # 開発環境
-1. CPU
-  1. MacBook Pro
-  1. anaconda 2019.03 for macOS installer
-  1. conda 4.8.3
-  1. python 3.7.4
+- CPU
+MacBook Pro, 
+anaconda 2019.03 for macOS installer, 
+conda 4.8.3, 
+python 3.7.4
 
-1. GPU
-  1. AWS EC2 p2.xlarge
-  1. ubuntu 18.04(Deep Learning AMI)
-  1. tensorflow_p36
+- GPU
+AWS EC2 p2.xlarge, 
+ubuntu 18.04(Deep Learning AMI), 
+tensorflow_p36
 
 
 
